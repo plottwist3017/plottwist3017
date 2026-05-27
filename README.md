@@ -35,7 +35,7 @@
 
 ---
 
-## 📁 Analytics Projects
+## 📁 Data Analysis Projects
 
 <p align="center">
 

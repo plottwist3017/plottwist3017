@@ -10,6 +10,10 @@
 
 ## 💼 Experience  
 
+- 👩‍💻 **Team Lead** — CPS 412 Client Project, Toronto Metropolitan University  
+  - Led development of a habit-tracking system  
+  - Focused on privacy, trust, and user behavior analytics 
+
 - 🔬 **Student Researcher** — New York Academy of Sciences  
   - Researched ethical AI, algorithmic bias, and user trust in AI systems  
 
@@ -18,20 +22,16 @@
 
 - 🏭 **Summer Intern** — Transformers and Rectifiers India Ltd.  
   - Built and maintained databases  
-  - Cleaned datasets and supported reporting processes  
-
-- 👩‍💻 **Team Lead** — CPS 412 Client Project, Toronto Metropolitan University  
-  - Led development of a habit-tracking system  
-  - Focused on privacy, trust, and user behavior analytics  
+  - Cleaned datasets and supported reporting processes   
 
 ---
 
 ## 🏆 Leadership Roles  
 
+- 💻 **Program Representative (CS)** — Women in Science, Toronto Metropolitan University  
 - 🎤 **Ambassador** — BYTE, Toronto Metropolitan University  
 - 🌱 **Youth Specialist** — Live to Inspire Foundation  
 - 👑 **Vice Head Girl** — Lalji Mehrotra Lions School  
-- 💻 **Program Representative (CS)** — Women in Science, Toronto Metropolitan University  
 
 ---
 

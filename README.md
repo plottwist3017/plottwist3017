@@ -1,37 +1,37 @@
 # 💫 Hi! I am Kavya, an aspiring Data Analyst
 
 ## 👩‍💻 About Me  
-I am a Computer Science student at Toronto Metropolitan University with interests in **data analytics, AI, and problem-solving**.  
-
-Skilled in **Python, Excel, data cleaning, Tableau, Power BI, and LLM usage**, with strong communication, teamwork, and research abilities.
+- Computer Science student at Toronto Metropolitan University  
+- Interested in **data analytics, AI, and problem-solving**  
+- Skilled in **Python, Excel, data cleaning, Tableau, Power BI, and LLM usage**  
+- Strong in communication, teamwork, and research  
 
 ---
 
 ## 💼 Experience  
 
-👩‍💻 **Team Lead** @ CPS 412 Client Project, Toronto Metropolitan University  
-Led development of a habit-tracking system focused on privacy and user behavior analytics.
+- 🔬 **Student Researcher** — New York Academy of Sciences  
+  - Researched ethical AI, algorithmic bias, and user trust in AI systems  
 
-🔬 **Student Researcher** @ New York Academy of Sciences  
-Researched ethical AI, algorithmic bias, and user trust in AI systems.
+- 🏆 **Finalist** — John Locke Institute Global Essay Prize  
+  - Conducted psychology research on stress and youth mental health  
 
-🏆 **Finalist** @ John Locke Institute Global Essay Prize  
-Conducted psychology research on stress and youth mental health.
+- 🏭 **Summer Intern** — Transformers and Rectifiers India Ltd.  
+  - Built and maintained databases  
+  - Cleaned datasets and supported reporting processes  
 
-🏭 **Summer Intern** @ Transformers and Rectifiers India Ltd.  
-Built and maintained databases, cleaned datasets, and supported reporting processes.
+- 👩‍💻 **Team Lead** — CPS 412 Client Project, Toronto Metropolitan University  
+  - Led development of a habit-tracking system  
+  - Focused on privacy, trust, and user behavior analytics  
 
 ---
 
 ## 🏆 Leadership Roles  
 
-💻 **Program Representative (CS)** @ Women in Science, Toronto Metropolitan University
-
-🎤 **Ambassador** @ BYTE, Toronto Metropolitan University  
-
-🌱 **Youth Specialist** @ Live to Inspire Foundation  
-
-👑 **Vice Head Girl** @ Lalji Mehrotra Lions School  
+- 🎤 **Ambassador** — BYTE, Toronto Metropolitan University  
+- 🌱 **Youth Specialist** — Live to Inspire Foundation  
+- 👑 **Vice Head Girl** — Lalji Mehrotra Lions School  
+- 💻 **Program Representative (CS)** — Women in Science, Toronto Metropolitan University  
 
 ---
 

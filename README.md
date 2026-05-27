@@ -35,7 +35,7 @@
 
 ---
 
-## 📁 Projects
+## 📁 Analytics Projects
 
 <p align="center">
 

@@ -9,29 +9,29 @@ Skilled in **Python, Excel, data cleaning, Tableau, Power BI, and LLM usage**, w
 
 ## 💼 Experience  
 
-🔬 **Student Researcher** — New York Academy of Sciences  
+🔬 **Student Researcher** @ New York Academy of Sciences  
 Researched ethical AI, algorithmic bias, and user trust in AI systems.
 
-🏆 **Finalist** — John Locke Institute Global Essay Prize  
+🏆 **Finalist** @ John Locke Institute Global Essay Prize  
 Conducted psychology research on stress and youth mental health.
 
-🏭 **Summer Intern** — Transformers and Rectifiers India Ltd.  
+🏭 **Summer Intern** @ Transformers and Rectifiers India Ltd.  
 Built and maintained databases, cleaned datasets, and supported reporting processes.
 
-👩‍💻 **Team Lead** — CPS 412 Client Project, Toronto Metropolitan University  
+👩‍💻 **Team Lead** @ CPS 412 Client Project, Toronto Metropolitan University  
 Led development of a habit-tracking system focused on privacy and user behavior analytics.
 
 ---
 
 ## 🏆 Leadership Roles  
 
-🎤 **Ambassador** — BYTE, Toronto Metropolitan University  
+💻 **Program Representative (CS)** @ Women in Science, Toronto Metropolitan University
 
-🌱 **Youth Specialist** — Live to Inspire Foundation  
+🎤 **Ambassador** @ BYTE, Toronto Metropolitan University  
 
-👑 **Vice Head Girl** — Lalji Mehrotra Lions School  
+🌱 **Youth Specialist** @ Live to Inspire Foundation  
 
-💻 **Program Representative (CS)** — Women in Science, Toronto Metropolitan University
+👑 **Vice Head Girl** @ Lalji Mehrotra Lions School  
 
 ---
 

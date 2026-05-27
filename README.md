@@ -35,7 +35,27 @@
 
 ---
 
-# 💻 Tech Stack
+## 📁 Projects
+
+<p align="center">
+
+<a href="https://github.com/plottwist3017/voice-of-the-trends-word-cloud">
+  <img src="https://img.shields.io/badge/📊 Voice_of_Trends-Word_Cloud-6A5ACD?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/plottwist3017/ai-job-markets-data-analysis">
+  <img src="https://img.shields.io/badge/💼 AI_Job_Market-Analysis-FF6B6B?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/plottwist3017/global-womens-wellbeing-analysis">
+  <img src="https://img.shields.io/badge/🌍 Women's_Wellbeing-EDA-20C997?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

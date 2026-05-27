@@ -9,6 +9,9 @@ Skilled in **Python, Excel, data cleaning, Tableau, Power BI, and LLM usage**, w
 
 ## 💼 Experience  
 
+👩‍💻 **Team Lead** @ CPS 412 Client Project, Toronto Metropolitan University  
+Led development of a habit-tracking system focused on privacy and user behavior analytics.
+
 🔬 **Student Researcher** @ New York Academy of Sciences  
 Researched ethical AI, algorithmic bias, and user trust in AI systems.
 
@@ -17,9 +20,6 @@ Conducted psychology research on stress and youth mental health.
 
 🏭 **Summer Intern** @ Transformers and Rectifiers India Ltd.  
 Built and maintained databases, cleaned datasets, and supported reporting processes.
-
-👩‍💻 **Team Lead** @ CPS 412 Client Project, Toronto Metropolitan University  
-Led development of a habit-tracking system focused on privacy and user behavior analytics.
 
 ---
 

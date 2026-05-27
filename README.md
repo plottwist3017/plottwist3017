@@ -5,16 +5,22 @@ I am a Computer Science student at Toronto Metropolitan University with interest
 
 # 💼 Experience
 🔬 Student Researcher @ New York Academy of Sciences — Researched ethical AI, algorithmic bias, and user trust in AI systems
+
 🏆 Finalist @ John Locke Institute Global Essay Prize — Psychology research on stress and youth mental health
+
 🏭 Summer Intern @ Transformers and Rectifiers India Ltd. — Database management, data cleaning, and reporting support
+
 👩‍💻 Team Lead, CPS 412 Client Project @ Toronto Metropolitan University — Led development of a habit-tracking system focused on privacy and user behavior analytics
 
 ---
 
 # 🏆 Leadership Roles
 🎤 Ambassador @ BYTE, Toronto Metropolitan University
+
 🌱 Youth Specialist @ Live to Inspire Foundation
+
 👑 Vice Head Girl @ Lalji Mehrotra Lions School
+
 💻 Program Representative (CS) @ Women in Science, Toronto Metropolitan University
 
 ---

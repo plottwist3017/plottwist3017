@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>
-    <img src="tmujpg.jpg" width="65" height="65" alt="TMU Logo" style="vertical-align: middle; margin-right: 10px;">
     Kavya Raval
   </h1>
 

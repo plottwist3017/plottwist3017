@@ -11,12 +11,10 @@
 
 # 👩‍💻 About Me
 
-- 📊 Exploring **Data Analytics, AI, Business Intelligence, and Responsible AI**
-- 🤖 Passionate about **LLM applications, prompt engineering, and AI-assisted innovation**
-- 🧠 Blend technical problem-solving with **creative thinking, research, and analytical storytelling**
-- ✍️ Strong interest in **writing, communication, and translating complex ideas into meaningful insights**
-- 🐍 Experienced with **Python, Pandas, Excel, Power BI, Tableau, and data workflows**
-- 🌱 Continuously learning and building solutions at the intersection of technology and impact
+- 📊 Interested in **Data Analytics, AI, Business Intelligence & Responsible AI**
+- 🤖 Exploring **LLMs, prompt engineering, and AI-assisted innovation**
+- 🧠 Blend **technical problem-solving, creative thinking, research, and communication**
+- 🐍 Skilled in **Python, Pandas, Excel, Power BI, Tableau, and analytics workflows**
 
 ---
 
@@ -78,53 +76,33 @@
   Lalji Mehrotra Lions School
 
 ---
+
 # 🚀 Featured Projects
 
-
-<p align="center">
-
-<a href="https://github.com/plottwist3017/FinSighhtAI">
-<img src="https://img.shields.io/badge/💰%20FinSight%20AI-AI%20Financial%20Analytics-00B894?style=for-the-badge">
-</a>
-
-<br>
-
-AI-powered financial intelligence platform using LLMs to analyze expenses and generate actionable insights.
-
-<br><br>
+### 💰 FinSight AI — AI-Powered Financial Analytics Platform  
+AI-driven financial intelligence platform using **LLMs, Python, and data pipelines** to transform expense data into actionable insights.  
+🔗 [View Project](https://github.com/plottwist3017/FinSighhtAI)
 
 
-<a href="https://github.com/plottwist3017/ai-resume-reviewer">
-<img src="https://img.shields.io/badge/🤖%20AI%20Resume%20Reviewer-ATS%20Scanner-6C5CE7?style=for-the-badge">
-</a>
+---
 
-<br>
-
-LLM-powered ATS scanner that evaluates resumes and provides personalized improvement suggestions.
-
-<br><br>
+### 🤖 AI Resume Reviewer — AI-Powered ATS Scanner  
+LLM-powered resume analysis tool that evaluates resumes against job requirements and provides personalized feedback.  
+🔗 [View Project](https://github.com/plottwist3017/ai-resume-reviewer)
 
 
-<a href="https://github.com/plottwist3017/voice-of-the-trends-word-cloud">
-<img src="https://img.shields.io/badge/📊%20Voice%20of%20Trends-Social%20Analytics-0984E3?style=for-the-badge">
-</a>
+---
 
-<br>
-
-Social media analytics pipeline transforming 300K+ data points into meaningful trends and visualizations.
-
-<br><br>
+### 📊 Voice of the Trends — Social Media Analytics Dashboard  
+Data analytics project processing **300K+ data points** to uncover trends through Python, Power BI, and visualization.  
+🔗 [View Project](https://github.com/plottwist3017/voice-of-the-trends-word-cloud)
 
 
-<a href="https://github.com/plottwist3017/ai-job-markets-data-analysis">
-<img src="https://img.shields.io/badge/📈%20AI%20Job%20Market-Tableau%20Dashboard-FF7675?style=for-the-badge">
-</a>
+---
 
-<br>
-
-Interactive Tableau dashboard exploring AI job market trends and career insights.
-
-</p>
+### 📈 AI Job Market Insights — Tableau Dashboard  
+Interactive business intelligence dashboard exploring AI career trends using Tableau and structured data analysis.  
+🔗 [View Project](https://github.com/plottwist3017/ai-job-markets-data-analysis)
 
 ---
 

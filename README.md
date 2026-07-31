@@ -1,12 +1,12 @@
 <div align="center">
 
   <h1>
-    Kavya Raval
+    Hi! I'm Kavya, an aspiring Data & AI Analyst ✨
   </h1>
 
   <p>
     <strong>Computer Science Student @ Toronto Metropolitan University</strong><br>
-    <em>Data Analytics • AI & Machine Learning • Business Intelligence • Responsible AI</em>
+    <em>Data Analytics • AI & Machine Learning • Business Intelligence • Ethical AI</em>
   </p>
 
   <p>

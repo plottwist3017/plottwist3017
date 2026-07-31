@@ -2,18 +2,16 @@
 
 <table>
 <tr>
-
-<td width="75">
-<img src="./assets/tmu.png" width="55">
+<td width="40">
+<img src="./assets/tmu.png" width="30">
 </td>
 
 <td>
 
 🎓 **Computer Science Student**  
-Toronto Metropolitan University  
+**Toronto Metropolitan University**
 
 </td>
-
 </tr>
 </table>
 
@@ -25,10 +23,11 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 # 👩‍💻 About Me
 
 - 🎓 Computer Science student at Toronto Metropolitan University
-- 📊 Interested in **Data Analytics, AI, Business Intelligence, and Responsible AI**
+- 📊 Interested in **Data Analytics, AI, Business Intelligence & Responsible AI**
 - 🐍 Skilled in **Python, Excel, Pandas, Power BI, Tableau, and LLM applications**
-- 🤖 Building AI-powered applications that solve real-world problems
-- 🌱 Passionate about continuous learning, research, and innovation
+- 🤖 Building AI-powered applications and data-driven solutions
+- 🌱 Passionate about research, innovation, and continuous learning
+
 
 ---
 
@@ -39,8 +38,8 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 
 <tr>
 
-<td width="75">
-<img src="./assets/mdsa.png" width="55">
+<td width="40">
+<img src="./assets/mdsa.png" width="30">
 </td>
 
 <td>
@@ -61,7 +60,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 <tr>
 
 <td>
-<img src="./assets/nyas.png" width="55">
+<img src="./assets/nyas.png" width="30">
 </td>
 
 <td>
@@ -81,7 +80,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 <tr>
 
 <td>
-<img src="./assets/trpl.png" width="55">
+<img src="./assets/trpl.png" width="30">
 </td>
 
 <td>
@@ -90,7 +89,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 **Transformers and Rectifiers India Ltd.**  
 *May 2024 – Jul 2024*
 
-- Digitalized budget proposal workflows by integrating pricing databases into ERP software (Infor LN)
+- Digitalized budget proposal workflows through ERP software integration (Infor LN)
 - Prepared structured reporting to validate operational data against targets
 
 </td>
@@ -125,27 +124,19 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 <p align="center">
 
 <a href="https://github.com/plottwist3017/FinSighhtAI">
-
-<img src="https://img.shields.io/badge/💰%20FinSight%20AI-AI%20Financial%20Analytics-00B894?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/💰%20FinSight%20AI-AI%20Financial%20Analytics-00B894?style=for-the-badge">
 </a>
 
 <a href="https://github.com/plottwist3017/ai-resume-reviewer">
-
-<img src="https://img.shields.io/badge/🤖%20AI%20Resume%20Reviewer-ATS%20Scanner-6C5CE7?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🤖%20AI%20Resume%20Reviewer-ATS%20Scanner-6C5CE7?style=for-the-badge">
 </a>
 
 <a href="https://github.com/plottwist3017/voice-of-the-trends-word-cloud">
-
-<img src="https://img.shields.io/badge/📊%20Voice%20of%20Trends-Social%20Analytics-0984E3?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/📊%20Voice%20of%20Trends-Social%20Analytics-0984E3?style=for-the-badge">
 </a>
 
 <a href="https://github.com/plottwist3017/ai-job-markets-data-analysis">
-
-<img src="https://img.shields.io/badge/📈%20AI%20Job%20Market-Tableau%20Dashboard-FF7675?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/📈%20AI%20Job%20Market-Tableau%20Dashboard-FF7675?style=for-the-badge">
 </a>
 
 </p>
@@ -162,9 +153,9 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 
 **Skills:** Python • Pandas • Streamlit • Plotly • IBM watsonx.ai • Claude • OpenAI API
 
-- Built an AI-powered financial analytics platform transforming expense data into actionable insights
-- Developed Python pipelines for cleaning, validation, and categorization of real-world data
-- Integrated LLM workflows using prompt engineering for structured information extraction
+- Built an AI-powered financial intelligence platform transforming expense data into actionable insights
+- Developed Python pipelines for cleaning, validation, and categorization
+- Integrated LLM workflows using prompt engineering for structured extraction
 - Used AI-assisted development tools for rapid prototyping and iteration
 
 
@@ -176,8 +167,8 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 
 **Skills:** Python • Streamlit • LLMs
 
-- Developed an AI-based resume evaluation tool
-- Analyzes resumes against job requirements and generates improvement suggestions
+- Developed an AI-powered resume analysis tool
+- Evaluates resumes against job requirements and generates improvement suggestions
 
 
 ---
@@ -189,7 +180,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 **Skills:** Python • Pandas • Power BI • WordCloud • LLM Usage
 
 - Built a reusable Python pipeline to clean and aggregate 300,000+ data points
-- Created visual analytics workflows to identify trends and patterns
+- Created analytics workflows to identify trends and patterns
 
 
 ---
@@ -272,18 +263,15 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 
 # 🌐 Connect With Me
 
+
 <p align="center">
 
 <a href="https://linkedin.com/in/kavya-raval3017">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
 </a>
 
 <a href="mailto:application.kavyar@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
 </a>
 
 </p>

@@ -8,7 +8,7 @@
 
 <td>
 <h1>
-Kavya Vivekkumar Raval 
+Kavya Raval 
 </h1>
 
 🎓 <b>Computer Science Student</b><br>
@@ -35,9 +35,6 @@ Kavya Vivekkumar Raval
 
 # 💼 Experience
 
-
-<img src="mdsalogo.jpg" width="55" align="left" style="margin-right:15px;">
-
 ### 📊 Director of Data Science  
 **Metropolitan Data Science Association**  
 *May 2026 – Present*
@@ -46,10 +43,6 @@ Kavya Vivekkumar Raval
 - Mentor students in analytical thinking, technical problem-solving, and data concepts
 - Collaborate on curriculum planning and knowledge-sharing initiatives
 
-<br clear="left">
-
-
-<img src="nyas.png" width="55" align="left" style="margin-right:15px;">
 
 ### 🔬 Student Researcher  
 **New York Academy of Sciences**  
@@ -59,11 +52,6 @@ Kavya Vivekkumar Raval
 - Synthesized literature and behavioral research into structured deliverables
 - Collaborated with an international research team across 4+ countries
 
-<br clear="left">
-
-
-<img src="images.png" width="55" align="left" style="margin-right:15px;">
-
 ### 💻 Information Technology Intern  
 **Transformers and Rectifiers India Ltd.**  
 *May 2024 – Jul 2024*
@@ -71,8 +59,6 @@ Kavya Vivekkumar Raval
 - Digitalized budget proposal workflows through ERP software integration (Infor LN)
 - Prepared structured reporting to validate operational data against business targets
 - Improved accessibility and organization of operational information
-
-<br clear="left">
 
 ---
 

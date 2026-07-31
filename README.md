@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Kavya
+# 💫 Hi! I'm Kavya Raval.
 
 <img src="tmujpg.jpg" width="90" align="left" style="margin-right:18px;">
 
@@ -6,9 +6,6 @@
 @ Toronto Metropolitan University
 
 <br clear="left">
-
-
-Building at the intersection of **Data Analytics, Artificial Intelligence, and human-centered problem solving**. Passionate about transforming complex data into actionable insights through analytics, visualization, and AI-driven solutions.
 
 ---
 
@@ -81,7 +78,6 @@ Building at the intersection of **Data Analytics, Artificial Intelligence, and h
   Lalji Mehrotra Lions School
 
 ---
-
 # 🚀 Featured Projects
 
 
@@ -91,74 +87,44 @@ Building at the intersection of **Data Analytics, Artificial Intelligence, and h
 <img src="https://img.shields.io/badge/💰%20FinSight%20AI-AI%20Financial%20Analytics-00B894?style=for-the-badge">
 </a>
 
+<br>
+
+AI-powered financial intelligence platform using LLMs to analyze expenses and generate actionable insights.
+
+<br><br>
+
+
 <a href="https://github.com/plottwist3017/ai-resume-reviewer">
 <img src="https://img.shields.io/badge/🤖%20AI%20Resume%20Reviewer-ATS%20Scanner-6C5CE7?style=for-the-badge">
 </a>
+
+<br>
+
+LLM-powered ATS scanner that evaluates resumes and provides personalized improvement suggestions.
+
+<br><br>
+
 
 <a href="https://github.com/plottwist3017/voice-of-the-trends-word-cloud">
 <img src="https://img.shields.io/badge/📊%20Voice%20of%20Trends-Social%20Analytics-0984E3?style=for-the-badge">
 </a>
 
+<br>
+
+Social media analytics pipeline transforming 300K+ data points into meaningful trends and visualizations.
+
+<br><br>
+
+
 <a href="https://github.com/plottwist3017/ai-job-markets-data-analysis">
 <img src="https://img.shields.io/badge/📈%20AI%20Job%20Market-Tableau%20Dashboard-FF7675?style=for-the-badge">
 </a>
 
+<br>
+
+Interactive Tableau dashboard exploring AI job market trends and career insights.
+
 </p>
-
----
-
-# 🤖 AI & Data Projects
-
-
-## 💰 FinSight AI — AI-Powered Financial Analytics Platform
-
-🔗 https://github.com/plottwist3017/FinSighhtAI
-
-**Skills:** Python • Pandas • Streamlit • Plotly • IBM watsonx.ai • Claude • OpenAI API
-
-- Built an AI-powered financial intelligence platform transforming expense data into actionable insights
-- Developed Python pipelines for cleaning, validation, and categorization of real-world data
-- Integrated LLM workflows using prompt engineering for structured information extraction
-- Used AI-assisted development tools for rapid prototyping, debugging, and iteration
-
-
----
-
-## 🤖 AI Resume Reviewer — AI-Powered ATS Scanner
-
-🔗 https://github.com/plottwist3017/ai-resume-reviewer
-
-**Skills:** Python • Streamlit • LLMs
-
-- Built an AI-assisted resume analysis platform for job seekers
-- Evaluates resumes against job requirements and generates improvement suggestions
-- Applies LLM-based reasoning to provide personalized feedback
-
-
----
-
-## 📊 Voice of the Trends — Social Media Analytics Dashboard
-
-🔗 https://github.com/plottwist3017/voice-of-the-trends-word-cloud
-
-**Skills:** Python • Pandas • Power BI • WordCloud • LLM Usage
-
-- Built a reusable Python pipeline to clean and aggregate 300,000+ data points
-- Created visualization workflows to identify trends and patterns
-- Structured project outputs for reproducibility and analysis
-
-
----
-
-## 📈 AI Job Market Insights — Tableau Dashboard
-
-🔗 https://github.com/plottwist3017/ai-job-markets-data-analysis
-
-**Skills:** Tableau • Excel • Business Intelligence
-
-- Applied calculated fields and filtering logic to transform raw job market data
-- Created an interactive dashboard for exploring AI career trends
-
 
 ---
 

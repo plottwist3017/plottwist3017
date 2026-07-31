@@ -1,11 +1,26 @@
-# 💫 Hi! I'm Kavya Raval.
+<div align="center">
 
-<img src="tmujpg.jpg" width="90" align="left" style="margin-right:18px;">
+<table>
+<tr>
+<td>
+<img src="tmujpg.jpg" width="120">
+</td>
 
-🎓 **Computer Science Student**  
+<td>
+<h1>
+Kavya Vivekkumar Raval 
+</h1>
+
+🎓 <b>Computer Science Student</b><br>
 @ Toronto Metropolitan University
 
-<br clear="left">
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 

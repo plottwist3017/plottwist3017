@@ -3,7 +3,7 @@
 <img src="tmujpg.jpg" width="70" align="left" style="margin-right:15px;">
 
 🎓 **Computer Science Student**  
-Toronto Metropolitan University
+@ Toronto Metropolitan University
 
 <br clear="left">
 

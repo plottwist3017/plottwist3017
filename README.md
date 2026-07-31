@@ -6,7 +6,6 @@
 
   <p>
     <strong>Computer Science Student @ Toronto Metropolitan University</strong><br>
-    <em>Data Analytics • AI & Machine Learning • Business Intelligence • Ethical AI</em>
   </p>
 
   <p>
@@ -23,10 +22,10 @@
 
 ### 👩‍💻 About Me
 
-* 📊 **Focus Areas:** Data Analytics, AI/ML, Business Intelligence & Ethical/Responsible AI
+* 📊 **Focus Areas:** Data Analytics, AI/ML,LLM Usage, Business Intelligence & Ethical AI
 * 🤖 **Exploring:** Large Language Models (LLMs), Prompt Engineering, and AI-assisted Workflows
 * 🧠 **Approach:** Blending technical problem-solving, creative research, and cross-functional communication
-* 🐍 **Core Toolkit:** Python, Pandas, SQL, Excel, Power BI, Tableau, and Data Analytics Pipelines
+* 🐍 **Core Strengths:** Python, Pandas, Excel, Power BI, Tableau, Data Analytics Pipelines and LLMs
 
 ---
 
@@ -130,6 +129,14 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
+</p>
+
+  <b>LLMs & Generative AI</b>
+  <p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/IBM%20Bob-052125?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Bob">
 </p>
 
 ---

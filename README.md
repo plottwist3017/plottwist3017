@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="40">
-<img src="./assets/tmu.png" width="30">
+<img src="tmujpg.jpg" width="30">
 </td>
 
 <td>
@@ -39,7 +39,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 <tr>
 
 <td width="40">
-<img src="./assets/mdsa.png" width="30">
+<img src="mdsalogo.jpg" width="30">
 </td>
 
 <td>
@@ -60,7 +60,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 <tr>
 
 <td>
-<img src="./assets/nyas.png" width="30">
+<img src="nyas.png" width="30">
 </td>
 
 <td>
@@ -80,7 +80,7 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 <tr>
 
 <td>
-<img src="./assets/trpl.png" width="30">
+<img src="images.png" width="30">
 </td>
 
 <td>

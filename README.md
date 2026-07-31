@@ -1,9 +1,9 @@
-# 💫 Hi! I'm Kavya
+# 💫 Hi! I'm Kavya Raval
 
-<img src="tmujpg.jpg" width="50" align="left" style="margin-right:12px;">
+<img src="tmujpg.jpg" width="70" align="left" style="margin-right:15px;">
 
 🎓 **Computer Science Student**  
-**Toronto Metropolitan University**
+Toronto Metropolitan University
 
 <br clear="left">
 
@@ -14,12 +14,12 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 
 # 👩‍💻 About Me
 
-- 🎓 Computer Science student at Toronto Metropolitan University
 - 📊 Interested in **Data Analytics, AI, Business Intelligence & Responsible AI**
-- 🐍 Skilled in **Python, Excel, Pandas, Power BI, Tableau, and LLM applications**
-- 🤖 Building AI-powered applications and data-driven solutions
-- 🌱 Passionate about research, innovation, and continuous learning
-
+- 🤖 Passionate about **LLM applications, prompt engineering, and AI-assisted innovation**
+- 🧠 Combine technical problem-solving with **creative thinking, research, and analytical storytelling**
+- ✍️ Strong interest in **writing, communication, and translating complex ideas into clear insights**
+- 🐍 Skilled in **Python, Excel, Pandas, Power BI, Tableau, and data-driven workflows**
+- 🌱 Always exploring new technologies and building solutions that create meaningful impact
 ---
 
 # 💼 Experience

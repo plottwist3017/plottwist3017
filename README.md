@@ -1,6 +1,6 @@
-# 💫 Hi! I'm Kavya Raval
+# 💫 Hi! I'm Kavya
 
-<img src="tmujpg.jpg" width="70" align="left" style="margin-right:15px;">
+<img src="tmujpg.jpg" width="90" align="left" style="margin-right:18px;">
 
 🎓 **Computer Science Student**  
 @ Toronto Metropolitan University
@@ -8,58 +8,63 @@
 <br clear="left">
 
 
-Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data into meaningful insights through analytics, artificial intelligence, and visualization.
+Building at the intersection of **Data Analytics, Artificial Intelligence, and human-centered problem solving**. Passionate about transforming complex data into actionable insights through analytics, visualization, and AI-driven solutions.
 
 ---
 
 # 👩‍💻 About Me
 
-- 📊 Interested in **Data Analytics, AI, Business Intelligence & Responsible AI**
+- 📊 Exploring **Data Analytics, AI, Business Intelligence, and Responsible AI**
 - 🤖 Passionate about **LLM applications, prompt engineering, and AI-assisted innovation**
-- 🧠 Combine technical problem-solving with **creative thinking, research, and analytical storytelling**
-- ✍️ Strong interest in **writing, communication, and translating complex ideas into clear insights**
-- 🐍 Skilled in **Python, Excel, Pandas, Power BI, Tableau, and data-driven workflows**
-- 🌱 Always exploring new technologies and building solutions that create meaningful impact
+- 🧠 Blend technical problem-solving with **creative thinking, research, and analytical storytelling**
+- ✍️ Strong interest in **writing, communication, and translating complex ideas into meaningful insights**
+- 🐍 Experienced with **Python, Pandas, Excel, Power BI, Tableau, and data workflows**
+- 🌱 Continuously learning and building solutions at the intersection of technology and impact
+
 ---
 
 # 💼 Experience
 
 
-<img src="mdsalogo.jpg" width="50" align="left" style="margin-right:12px;">
+<img src="mdsalogo.jpg" width="55" align="left" style="margin-right:15px;">
 
 ### 📊 Director of Data Science  
 **Metropolitan Data Science Association**  
 *May 2026 – Present*
 
-- Develop technical learning materials and workshops for Python, Power BI, Excel, and Tableau
-- Mentor students in analytical thinking and technical problem-solving
+- Develop technical learning materials and workshops covering Python, Power BI, Excel, and Tableau
+- Mentor students in analytical thinking, technical problem-solving, and data concepts
 - Collaborate on curriculum planning and knowledge-sharing initiatives
 
 <br clear="left">
 
 
-<img src="nyas.png" width="50" align="left" style="margin-right:12px;">
+<img src="nyas.png" width="55" align="left" style="margin-right:15px;">
 
 ### 🔬 Student Researcher  
 **New York Academy of Sciences**  
 *Sep 2024 – Jun 2025*
 
-- Researched ethical AI, algorithmic bias, and transparency in automated systems
-- Synthesized literature and behavioral research with an international team across 4+ countries
+- Researched ethical AI, algorithmic bias, transparency, and trust in automated systems
+- Synthesized literature and behavioral research into structured deliverables
+- Collaborated with an international research team across 4+ countries
 
 <br clear="left">
 
 
-<img src="images.png" width="50" align="left" style="margin-right:12px;">
+<img src="images.png" width="55" align="left" style="margin-right:15px;">
 
 ### 💻 Information Technology Intern  
 **Transformers and Rectifiers India Ltd.**  
 *May 2024 – Jul 2024*
 
 - Digitalized budget proposal workflows through ERP software integration (Infor LN)
-- Prepared structured reporting to validate operational data against targets
+- Prepared structured reporting to validate operational data against business targets
+- Improved accessibility and organization of operational information
 
 <br clear="left">
+
+---
 
 # 🏆 Leadership
 
@@ -68,9 +73,6 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 
 - 🎤 **BYTE Ambassador**  
   Toronto Metropolitan University
-
-- 📊 **Director of Data Science**  
-  Metropolitan Data Science Association
 
 - 🌱 **Youth Specialist**  
   Live to Inspire Foundation
@@ -102,7 +104,6 @@ Aspiring **Data Analyst & AI Enthusiast** passionate about transforming data int
 </a>
 
 </p>
-
 
 ---
 

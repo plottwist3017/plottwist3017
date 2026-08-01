@@ -65,17 +65,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 FinSight AI</h3>
-      <p>AI-driven financial intelligence platform using LLMs, Python, and data pipelines to transform raw expense data into actionable insights.</p>
-      <p>
-        <a href="https://github.com/plottwist3017/FinSighhtAI"><b>🔗 View Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🤖 AI Resume Reviewer</h3>
       <p>LLM-powered resume evaluation scanner that analyzes candidates against job specifications and provides targeted feedback.</p>
       <p>
         <a href="https://github.com/plottwist3017/ai-resume-reviewer"><b>🔗 View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+     <h3>💰 FinSight AI</h3>
+      <p>AI-driven financial intelligence platform using LLMs, Python, and data pipelines to transform raw expense data into actionable insights.</p>
+      <p>
+        <a href="https://github.com/plottwist3017/FinSighhtAI"><b>🔗 View Repository »</b></a>
       </p>
     </td>
   </tr>

@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hi! I'm Kavya ✨
+    Hi! I'm Kavya Raval ✨
   </h1>
 
   <p>

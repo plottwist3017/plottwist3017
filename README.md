@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hi! I'm Kavya, an aspiring Data & AI Analyst ✨
+    Hi! I'm Kavya ✨
   </h1>
 
   <p>
@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me
 
-* 📊 **Focus Areas:** Data Analytics, AI/ML, LLM Usage, Business Intelligence & Ethical AI
+* 📊 **Focus Areas:** Data Science, AI/ML, LLM Usage, Business Intelligence & Ethical AI
 * 🤖 **Exploring:** Large Language Models (LLMs), Prompt Engineering, and AI-assisted Workflows
 * 🧠 **Approach:** Blending technical problem-solving, creative research, and cross-functional communication
 * 🐍 **Core Strengths:** Python, Pandas, Excel, Power BI, Tableau, Data Analytics Pipelines and LLMs
